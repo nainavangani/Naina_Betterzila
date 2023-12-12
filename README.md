@@ -38,5 +38,5 @@ Dropout and batch normalization are used for improving the model's generalizatio
 Visual inspection and comparison of the generated faces with the real dataset are conducted. Emphasis is placed on capturing fine details, diversity, and overall visual fidelity.
 
 
-I have also worked on sentiment analysis using transformer model before and you can find it here - https://github.com/nainavangani/Transformer-SMS-Spam-Detection
+I have also worked on sentiment analysis using transformer model before and you can find it here - https://github.com/nainavangani/Transformer-SMS-Spam-Detection <br>
 I have also used VAE before for generarting new moon images - https://github.com/nainavangani/PaAC
